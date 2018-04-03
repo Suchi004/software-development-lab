@@ -1,0 +1,19 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "node.js restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Suchi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
